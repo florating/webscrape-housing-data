@@ -1,0 +1,128 @@
+Palo Verde
+
+<table class="chart" height="885" style="width: 1035px;" summary="2013-2014 Housing Rates for Palo Verde graduate & family apartments">
+<thead>
+<tr>
+<th scope="col" style="width: 279.078px;">Floor Plan</th>
+<th scope="col" style="width: 173.938px;"># of<br/>Bedrooms</th>
+<th scope="col" style="width: 127.516px;"># of<br/>Baths</th>
+<th scope="col" style="width: 121.609px;"><abbr title="Square Footage">Sq. Ft.</abbr></th>
+<th scope="col" style="width: 133.516px;">Full Unit<sup>1</sup></th>
+<th scope="col" style="width: 198.344px;">Single Students<sup>2</sup></th>
+</tr>
+</thead>
+<tbody>
+<tr style="height: 53px;">
+<td scope="row" style="width: 279.078px; height: 53px;"><a href="https://sites.uci.edu/ucihousing/files/2021/05/PV_Unit-A.pdf" rel="attachment wp-att-3118" title="Unit A">Unit A</a></td>
+<td style="width: 173.938px;">studio</td>
+<td style="width: 127.516px;">1 <abbr title="bathroom">Ba</abbr></td>
+<td style="width: 121.609px;">411</td>
+<td style="width: 133.516px;">$942</td>
+<td style="width: 198.344px;">$942</td>
+</tr>
+<tr style="height: 53px;">
+<td scope="row" style="width: 279.078px; height: 53px;"><a href="https://sites.uci.edu/ucihousing/files/2021/05/PV_Unit-B.pdf" rel="attachment wp-att-3117" title="Unit B">Unit B</a></td>
+<td style="width: 173.938px;">1 <abbr title="Bedroom">Br</abbr></td>
+<td style="width: 127.516px;">1 <abbr title="bathroom">Ba</abbr></td>
+<td style="width: 121.609px;">600</td>
+<td style="width: 133.516px;">$1,186</td>
+<td style="width: 198.344px;">$1,186</td>
+</tr>
+<tr style="height: 53px;">
+<td scope="row" style="width: 279.078px; height: 53px;"><a href="https://sites.uci.edu/ucihousing/files/2021/05/PV_Unit-C.pdf" rel="attachment wp-att-3116" title="Unit C">Unit C</a></td>
+<td style="width: 173.938px;">1 <abbr title="Bedroom">Br</abbr></td>
+<td style="width: 127.516px;">1 <abbr title="bathroom">Ba</abbr></td>
+<td style="width: 121.609px;">570</td>
+<td style="width: 133.516px;">$1,186</td>
+<td style="width: 198.344px;">$1,186</td>
+</tr>
+<tr style="height: 53px;">
+<td scope="row" style="width: 279.078px; height: 53px;"><a href="https://sites.uci.edu/ucihousing/files/2021/05/PV_Unit-D.pdf" rel="attachment wp-att-3115" title="Unit D">Unit D</a></td>
+<td style="width: 173.938px;">1 <abbr title="Bedroom">Br</abbr></td>
+<td style="width: 127.516px;">1 <abbr title="bathroom">Ba</abbr></td>
+<td style="width: 121.609px;">538</td>
+<td style="width: 133.516px;">$1,186</td>
+<td style="width: 198.344px;">$1,186</td>
+</tr>
+<tr style="height: 53px;">
+<td scope="row" style="width: 279.078px; height: 53px;"><a href="https://sites.uci.edu/ucihousing/files/2021/05/PV_Unit-E.pdf" rel="attachment wp-att-3123" title="Unit E">Unit E</a></td>
+<td style="width: 173.938px;">2 <abbr title="bedrooms">Br</abbr></td>
+<td style="width: 127.516px;">1 <abbr title="bathroom">Ba</abbr></td>
+<td style="width: 121.609px;">842</td>
+<td style="width: 133.516px;">$1,476</td>
+<td style="width: 198.344px;">$738</td>
+</tr>
+<tr style="height: 53px;">
+<td scope="row" style="width: 279.078px; height: 53px;"><a href="https://sites.uci.edu/ucihousing/files/2021/05/PV_Unit-F.pdf" rel="attachment wp-att-3122" title="Unit F">Unit F</a></td>
+<td style="width: 173.938px;">2 <abbr title="bedrooms">Br</abbr></td>
+<td style="width: 127.516px;">1 <abbr title="bathroom">Ba</abbr></td>
+<td style="width: 121.609px;">866</td>
+<td style="width: 133.516px;">$1,476</td>
+<td style="width: 198.344px;">$738</td>
+</tr>
+<tr style="height: 53px;">
+<td scope="row" style="width: 279.078px; height: 53px;"><a href="https://sites.uci.edu/ucihousing/files/2021/05/PV_Unit-G.pdf" rel="attachment wp-att-3121" title="Unit G">Unit G</a></td>
+<td style="width: 173.938px;">3 <abbr title="bedrooms">Br</abbr></td>
+<td style="width: 127.516px;">2 <abbr title="bathrooms">Ba</abbr></td>
+<td style="width: 121.609px;">1,120</td>
+<td style="width: 133.516px;">$2,016</td>
+<td style="width: 198.344px;">$672</td>
+</tr>
+<tr style="height: 53px;">
+<td scope="row" style="width: 279.078px; height: 53px;"><a href="https://sites.uci.edu/ucihousing/files/2021/05/PV_Unit-H.pdf" rel="attachment wp-att-3120" title="Unit H">Unit H</a></td>
+<td style="width: 173.938px;">1 <abbr title="Bedroom">Br</abbr></td>
+<td style="width: 127.516px;">1 <abbr title="bathroom">Ba</abbr></td>
+<td style="width: 121.609px;">665</td>
+<td style="width: 133.516px;">$1,241</td>
+<td style="width: 198.344px;">$1,241</td>
+</tr>
+<tr style="height: 53px;">
+<td scope="row" style="width: 279.078px; height: 53px;"><a href="https://sites.uci.edu/ucihousing/files/2021/05/PV_Unit-I.pdf" rel="attachment wp-att-3119" title="Unit I">Unit I</a></td>
+<td style="width: 173.938px;">2 <abbr title="bedrooms">Br</abbr></td>
+<td style="width: 127.516px;">1 <abbr title="bathroom">Ba</abbr></td>
+<td style="width: 121.609px;">869</td>
+<td style="width: 133.516px;">$1,720</td>
+<td style="width: 198.344px;">$860</td>
+</tr>
+<tr style="height: 53px;">
+<td scope="row" style="width: 279.078px; height: 53px;"><a href="https://sites.uci.edu/ucihousing/files/2021/05/PV_Unit-J.pdf" rel="attachment wp-att-3128" title="Unit J">Unit J</a></td>
+<td style="width: 173.938px;">2 <abbr title="bedrooms">Br</abbr></td>
+<td style="width: 127.516px;">1 <abbr title="bathroom">Ba</abbr></td>
+<td style="width: 121.609px;">881</td>
+<td style="width: 133.516px;">$1,720</td>
+<td style="width: 198.344px;">$860</td>
+</tr>
+<tr style="height: 53px;">
+<td scope="row" style="width: 279.078px; height: 53px;"><a href="https://sites.uci.edu/ucihousing/files/2021/05/PV_Unit-K-Townhome.pdf" rel="attachment wp-att-3127" title="Unit K Townhome">Unit K Townhome</a></td>
+<td style="width: 173.938px;">2 <abbr title="Bedrooms">Br</abbr>-<abbr title="Townhome">TH</abbr></td>
+<td style="width: 127.516px;">1.5 <abbr title="bathrooms">Ba</abbr></td>
+<td style="width: 121.609px;">1,040</td>
+<td style="width: 133.516px;">$1,790</td>
+<td style="width: 198.344px;">$895</td>
+</tr>
+<tr style="height: 53px;">
+<td scope="row" style="width: 279.078px; height: 53px;"><a href="https://sites.uci.edu/ucihousing/files/2021/05/PV_Unit-L-Townhome.pdf" rel="attachment wp-att-3126" title="Unit L Townhome">Unit L Townhome</a></td>
+<td style="width: 173.938px;">2 <abbr title="Bedrooms">Br</abbr>-<abbr title="Townhome">TH</abbr>*</td>
+<td style="width: 127.516px;">1.5 <abbr title="bathrooms">Ba</abbr></td>
+<td style="width: 121.609px;">1,150</td>
+<td style="width: 133.516px;">$1,862</td>
+<td style="width: 198.344px;">$931</td>
+</tr>
+<tr style="height: 53px;">
+<td scope="row" style="width: 279.078px; height: 53px;"><a href="https://sites.uci.edu/ucihousing/files/2021/05/PV_Unit-M-Townhome.pdf" rel="attachment wp-att-3125" title="Unit M Townhome">Unit M Townhome</a></td>
+<td style="width: 173.938px;">2 <abbr title="Bedrooms">Br</abbr>-<abbr title="Townhome">TH</abbr></td>
+<td style="width: 127.516px;">2 <abbr title="bathrooms">Ba</abbr></td>
+<td style="width: 121.609px;">940</td>
+<td style="width: 133.516px;">$1,754</td>
+<td style="width: 198.344px;">$877</td>
+</tr>
+<tr style="height: 53px;">
+<td scope="row" style="width: 279.078px; height: 53px;"><a href="https://sites.uci.edu/ucihousing/files/2021/05/PV_Unit-N.pdf" rel="attachment wp-att-3124" title="Unit N">Unit N</a></td>
+<td style="width: 173.938px;">3 <abbr title="bedrooms">Br</abbr></td>
+<td style="width: 127.516px;">2 <abbr title="bathrooms">Ba</abbr></td>
+<td style="width: 121.609px;">1,270</td>
+<td style="width: 133.516px;">$2,265</td>
+<td style="width: 198.344px;">$755</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,128 @@
+Verano Place
+
+<table class="chart" height="740" style="width: 1030px;" summary="2013-2014 Housing Rates for Verano Place graduate & family apartments">
+<thead>
+<tr>
+<th scope="col" style="width: 284.781px;">Floor Plan</th>
+<th scope="col" style="width: 185.984px;"># of<br/>Bedrooms</th>
+<th scope="col" style="width: 136.344px;"># of<br/>Baths</th>
+<th scope="col" style="width: 110.938px;"><abbr title="Square Footage">Sq. Ft.</abbr></th>
+<th scope="col" style="width: 142.766px;">Full Unit<sup>1</sup></th>
+<th scope="col" style="width: 168.188px;">Shared Unit<sup>2</sup></th>
+</tr>
+</thead>
+<tbody>
+    <tr style="height: 24px;">
+        <td scope="row" style="height: 24px; width: 284.781px;"><a href="https://sites.uci.edu/ucihousing/files/2021/05/VP_Unit-A.pdf" rel="attachment wp-att-3349" title="Unit A">Unit A</a><a class="pdf" href="https://housing.uci.edu/docs/floorplans/VP_Unit%20A.pdf" title="Verano Place floor plan A"></a></td>
+        <td style="width: 185.984px;">1 <abbr title="Bedroom">Br</abbr></td>
+        <td style="width: 136.344px;">1 <abbr title="Bathroom">Ba</abbr></td>
+        <td style="width: 110.938px;">508</td>
+        <td style="width: 142.766px;">$1,105</td>
+        <td style="width: 168.188px;">n/a</td>
+    </tr>
+    <tr style="height: 24px;">
+        <td scope="row" style="height: 24px; width: 284.781px;"><a class="pdf" href="https://sites.uci.edu/ucihousing/files/2021/05/VP_Unit-B.pdf" title="Unit B">Unit B</a></td>
+        <td style="width: 185.984px;">1 <abbr title="Bedroom">Br</abbr></td>
+        <td style="width: 136.344px;">1 <abbr title="Bathroom">Ba</abbr></td>
+        <td style="width: 110.938px;">508</td>
+        <td style="width: 142.766px;">$1,105</td>
+        <td style="width: 168.188px;">n/a</td>
+    </tr>
+    <tr style="height: 24px;">
+    <td scope="row" style="height: 24px; width: 284.781px;"><a class="pdf" href="https://sites.uci.edu/ucihousing/files/2021/05/VP_Unit-C.pdf" title="Unit C">Unit C</a></td>
+    <td style="width: 185.984px;">1 <abbr title="Bedroom">Br</abbr></td>
+    <td style="width: 136.344px;">1 <abbr title="Bathroom">Ba</abbr></td>
+    <td style="width: 110.938px;">505</td>
+    <td style="width: 142.766px;">$1,105</td>
+    <td style="width: 168.188px;">n/a</td>
+    </tr>
+    <tr style="height: 24px;">
+    <td scope="row" style="height: 24px; width: 284.781px;"><a href="https://sites.uci.edu/ucihousing/files/2021/05/VP_Unit-D.pdf" rel="attachment wp-att-3346" title="Unit D">Unit D</a><a class="pdf" href="https://housing.uci.edu/docs/floorplans/VP_Unit%20D.pdf" title="Verano Place floor plan D"></a></td>
+    <td style="width: 185.984px;">3 <abbr title="Bedrooms">Br</abbr></td>
+    <td style="width: 136.344px;">1 <abbr title="Bathroom">Ba</abbr></td>
+    <td style="width: 110.938px;">749</td>
+    <td style="width: 142.766px;">$1,287</td>
+    <td style="width: 168.188px;">$429</td>
+    </tr>
+    <tr style="height: 24px;">
+    <td scope="row" style="height: 24px; width: 284.781px;"><a href="https://sites.uci.edu/ucihousing/files/2021/05/VP_Unit-E-horizontal.pdf" rel="attachment wp-att-3351" title="Unit E">Unit E</a><a class="pdf" href="https://housing.uci.edu/docs/floorplans/VP_Unit%20E-horizontal.pdf" title="Verano Place floor plan E"></a></td>
+    <td style="width: 185.984px;">3 <abbr title="Bedrooms">Br</abbr></td>
+    <td style="width: 136.344px;">1 <abbr title="Bathroom">Ba</abbr></td>
+    <td style="width: 110.938px;">749</td>
+    <td style="width: 142.766px;">$1,287</td>
+    <td style="width: 168.188px;">$429</td>
+    </tr>
+    <tr style="height: 24px;">
+    <td scope="row" style="height: 24px; width: 284.781px;"><a class="pdf" href="https://sites.uci.edu/ucihousing/files/2021/05/VP_Unit-F.pdf" title="Unit F">Unit F</a></td>
+    <td style="width: 185.984px;">2 <abbr title="Bedrooms">Br</abbr>-<abbr title="Townhome">TH</abbr></td>
+    <td style="width: 136.344px;">1 <abbr title="Bathroom">Ba</abbr></td>
+    <td style="width: 110.938px;">704</td>
+    <td style="width: 142.766px;">$1,204</td>
+    <td style="width: 168.188px;">$602</td>
+    </tr>
+    <tr style="height: 24px;">
+    <td scope="row" style="height: 24px; width: 284.781px;"><a class="pdf" href="https://sites.uci.edu/ucihousing/files/2021/05/VP_Unit-G.pdf" title="Unit G">Unit G</a></td>
+    <td style="width: 185.984px;">2 <abbr title="Bedrooms">Br</abbr></td>
+    <td style="width: 136.344px;">1 <abbr title="Bathroom">Ba</abbr></td>
+    <td style="width: 110.938px;">626</td>
+    <td style="width: 142.766px;">$1,186</td>
+    <td style="width: 168.188px;">$593</td>
+    </tr>
+    <tr style="height: 24px;">
+    <td scope="row" style="height: 24px; width: 284.781px;"><a class="pdf" href="https://sites.uci.edu/ucihousing/files/2021/05/VP_Unit-H.pdf" title="Unit H">Unit H</a></td>
+    <td style="width: 185.984px;">2 <abbr title="Bedrooms">Br</abbr></td>
+    <td style="width: 136.344px;">1 <abbr title="Bathroom">Ba</abbr></td>
+    <td style="width: 110.938px;">627</td>
+    <td style="width: 142.766px;">$1,186</td>
+    <td style="width: 168.188px;">$593</td>
+    </tr>
+    <tr style="height: 24px;">
+    <td scope="row" style="height: 24px; width: 284.781px;"><a class="pdf" href="https://sites.uci.edu/ucihousing/files/2021/05/VP_Unit-I.pdf" title="Unit I">Unit I</a></td>
+    <td style="width: 185.984px;">2 <abbr title="Bedrooms">Br</abbr></td>
+    <td style="width: 136.344px;">1 <abbr title="Bathroom">Ba</abbr></td>
+    <td style="width: 110.938px;">900</td>
+    <td style="width: 142.766px;">$1,558</td>
+    <td style="width: 168.188px;">$779</td>
+    </tr>
+    <tr style="height: 24px;">
+    <td scope="row" style="height: 24px; width: 284.781px;"><a href="https://sites.uci.edu/ucihousing/files/2021/05/VP_Unit-J.pdf" rel="attachment wp-att-3350" title="Unit J Townhome">Unit J Townhome</a><a class="pdf" href="https://housing.uci.edu/docs/floorplans/VP_Unit%20J.pdf" title="Verano Place floor plan J"></a></td>
+    <td style="width: 185.984px;">2 <abbr title="Bedrooms">Br</abbr>-<abbr title="Townhome">TH</abbr></td>
+    <td style="width: 136.344px;">1 <abbr title="Bathroom">Ba</abbr></td>
+    <td style="width: 110.938px;">900</td>
+    <td style="width: 142.766px;">$1,558</td>
+    <td style="width: 168.188px;">$779</td>
+    </tr>
+    <tr style="height: 24px;">
+    <td scope="row" style="height: 24px; width: 284.781px;"><a class="pdf" href="https://sites.uci.edu/ucihousing/files/2021/05/VP_Unit-K.pdf" title="Unit K">Unit K</a></td>
+    <td style="width: 185.984px;">2 <abbr title="Bedrooms">Br</abbr></td>
+    <td style="width: 136.344px;">1 <abbr title="Bathroom">Ba</abbr></td>
+    <td style="width: 110.938px;">757</td>
+    <td style="width: 142.766px;">$1,744</td>
+    <td style="width: 168.188px;">$872</td>
+    </tr>
+    <tr style="height: 24px;">
+    <td scope="row" style="height: 24px; width: 284.781px;"><a class="pdf" href="https://sites.uci.edu/ucihousing/files/2021/05/VP_Unit-L.pdf" title="Unit L">Unit L</a></td>
+    <td style="width: 185.984px;">2 <abbr title="Bedrooms">Br</abbr></td>
+    <td style="width: 136.344px;">1 <abbr title="Bathroom">Ba</abbr></td>
+    <td style="width: 110.938px;">843</td>
+    <td style="width: 142.766px;">$1,744</td>
+    <td style="width: 168.188px;">$872</td>
+    </tr>
+    <tr style="height: 24px;">
+    <td scope="row" style="height: 24px; width: 284.781px;"><a class="pdf" href="https://sites.uci.edu/ucihousing/files/2021/05/VP_Unit-M.pdf" title="Unit M">Unit M</a></td>
+    <td style="width: 185.984px;">2 <abbr title="Bedrooms">Br</abbr></td>
+    <td style="width: 136.344px;">1 <abbr title="Bathroom">Ba</abbr></td>
+    <td style="width: 110.938px;">757</td>
+    <td style="width: 142.766px;">$1,744</td>
+    <td style="width: 168.188px;">$872</td>
+    </tr>
+    <tr style="height: 24px;">
+    <td scope="row" style="height: 24px; width: 284.781px;"><a class="pdf" href="https://sites.uci.edu/ucihousing/files/2021/05/VP_Unit-N.pdf" title="Unit N">Unit N</a></td>
+    <td style="width: 185.984px;">2 <abbr title="Bedrooms">Br</abbr></td>
+    <td style="width: 136.344px;">1 <abbr title="Bathroom">Ba</abbr></td>
+    <td style="width: 110.938px;">843</td>
+    <td style="width: 142.766px;">$1,744</td>
+    <td style="width: 168.188px;">$872</td>
+    </tr>
+</tbody>
+</table>
