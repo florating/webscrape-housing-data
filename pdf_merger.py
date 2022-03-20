@@ -40,15 +40,20 @@ def create_file_name(plan):
     return plan.lower().replace(' ', '-')
 
 
-def download_pdfs(folder, urls):
+def download_pdfs(folder, urls, can_download=False, can_overwrite=False):
     """Return dict of floor plan names (eg: Unit A) and local urls for the downloaded PDF."""
     files = {}
+    open_mode = 'wb+' if can_overwrite else 'wb'
+    print(f'can_download={can_download}, can_overwrite={can_overwrite}:')
     for plan_name, url in urls.items():
         filename = f'{folder}/{plan_name}.pdf'
-        with open(filename, 'wb+') as f:
-            # response = req.urlopen(url)
-            # f.write(response.read())
+        if can_download:
+            with open(filename, open_mode) as f:
+                response = req.urlopen(url)
+                f.write(response.read())
             print(f'Finished downloading {filename}')
+        else:
+            print(f'filename = {filename}')
         files[plan_name] = filename
     return files
         
@@ -67,7 +72,7 @@ if __name__ == '__main__':
         pdf_path = os.path.abspath(f'./data/{house_dir}/')
 
         # download PDF files
-        house_plans = download_pdfs(pdf_path, urls)
+        house_plans = download_pdfs(pdf_path, urls, can_download=True, can_overwrite=False)
 
         # add filepaths to pdf_merger
         pdf_merger = PdfFileMerger()
