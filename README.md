@@ -6,7 +6,7 @@ To run the script yourself:
 - `env source/bin/activate`
 - `pip install -r requirements.txt`
 - `python3 main.py`
-- `deactive` when you are done
+- `deactivate` when you are done
 
 You may want to add a rate limiter if you end up trying this with more websites.
 
