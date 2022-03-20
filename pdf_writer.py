@@ -6,7 +6,6 @@ from reportlab.pdfgen.canvas import Canvas
 from reportlab.lib.pagesizes import letter
 
 
-
 EXAMPLE_DATASET = [
     {
         'Floor Plan': 'unit-a',
@@ -40,7 +39,7 @@ DATA_DIR = os.path.abspath('./data/')
 
 HOUSING_DIR = {
     'palo-verde-pdfs',
-    # 'verano-place-pdfs',
+    'verano-place-pdfs',
 }
 
 # ORIG_EXAMPLE = f'{DATA_DIR}/palo-verde-pdfs/example.pdf'
@@ -85,30 +84,35 @@ def write_to_single_pdf(message, destination=COPY_EXAMPLE, origin=ORIG_EXAMPLE, 
     print(f'finished writing to {destination}')
 
 
-def main(dataset=EXAMPLE_DATASET):
-    """Returns a dict after writing data to single PDF files.
-    - keys: 'palo-verde-pdfs' or 'verano-place-pdfs'
-    - values: list of new filepaths, all within the /v2 directory
+def main(house_dir, dataset=EXAMPLE_DATASET):
+    """Returns a dict after writing data to single PDF files when given a dataset.
+
+    Parameters:
+    - house_dir: 'palo-verde-pdfs' or 'verano-place-pdfs'
+    - dataset: defaults to EXAMPLE_DATASET
+
+    Returns: a list of new (absolute) filepaths, all within the /v2 directory
+    - eg: [
+            '{path_dir}/v2/unit-a.pdf',
+            '{path_dir}/v2/unit-b.pdf',
+            ...
+    ]
     """
-    revised_files = {}
-    for house_dir in HOUSING_DIR:
-        # house_dir --> 'palo-verde-pdfs' or similar
-        written_files = []
-        cont = input(f'Do you want to write to files in {house_dir}? (press ENTER if not) ')
-        if not cont:
-            break
+    
+    cont = input(f'Do you want to write to files in {house_dir}? (press ENTER if not) ')
+    if not cont:
+        return
 
-        path_dir = f'{DATA_DIR}/{house_dir}'
+    path_dir = f'{DATA_DIR}/{house_dir}' if 'data' not in house_dir else house_dir
 
-        overwrite_option = True if input('Do you want to overwrite destination files? \
-            (type "yes" if you do) ') == 'yes' else False
+    overwrite_option = True if input('Do you want to overwrite destination files? (type "yes" if you do) ') == 'yes' else False
+    written_files = []
 
-        for data in dataset:
-            origin_file_path = f'{path_dir}/{data["Floor Plan"]}.pdf'
-            dest_file_path = f'{path_dir}/v2/{data["Floor Plan"]}.pdf'
-            written_files.append(dest_file_path)
+    for data in dataset:
+        origin_file_path = f'{path_dir}/{data["Floor Plan"]}.pdf'
+        dest_file_path = f'{path_dir}/v2/{data["Floor Plan"]}.pdf'
 
-            message = format_message(data)
-            write_to_single_pdf(message, destination=dest_file_path, origin=origin_file_path, can_overwrite=overwrite_option)
-        revised_files[house_dir] = written_files
-    return revised_files
+        written_files.append(dest_file_path)
+        message = format_message(data)
+        write_to_single_pdf(message, destination=dest_file_path, origin=origin_file_path, can_overwrite=overwrite_option)
+    return written_files
