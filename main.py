@@ -25,6 +25,7 @@ def get_housing_name(filepath):
     name = filepath[end_pos:-1]
     return name.replace('-', ' ').title()
 
+
 def get_table_headers(table):
     headers = table.thead.tr.contents
     if headers is None:
@@ -37,15 +38,8 @@ def get_table_headers(table):
                 continue
             elif isinstance(val, str):
                 values.append(val)
-                continue
-            clean_val = ''
-            for child in val.children:
-                if isinstance(child, str):
-                    clean_val += child
-                else:
-                    s = child.string
-                    clean_val += s if isinstance(s, str) else ' '
-            values.append(clean_val.strip())
+            else:
+                values.append(val.text.strip())
         print(values)
         return values
 
@@ -58,9 +52,7 @@ def get_table_body(table):
     else:
         values = []
         for child_row in content:
-            # print(child_row.stripped_strings)
             row = get_values_from_row(child_row.contents)
-            # print(row)
             plan_url = get_floor_plan(child_row.a)
             if plan_url:
                 row.append(plan_url)
@@ -79,34 +71,12 @@ def get_values_from_row(row):
             values.append(val)
             continue
         else:
-            # clean_val = ''
-            # for child in val.children:
-            #     if isinstance(child, str):
-            #         clean_val += child
-            #     else:
-            #         s = child.string
-            #         clean_val += s if isinstance(s, str) else ' '
             values.append(val.text.strip())
     return values
 
 
 def get_floor_plan(a_tag):
     return a_tag['href']
-
-
-def scrape_table_headers(url):
-    with urlopen(url) as webpage:
-        soup = BeautifulSoup(webpage, features='html.parser')
-
-        title = soup.find('meta', attrs={'property': 'og:title'})
-        title_content = title['content'] if title else 'No meta title given'
-        print(title_content)
-
-        image = soup.find('meta', {'property': 'og:image'})
-        image_content = image['content'] if image else 'No meta url given'
-        print(image_content)
-
-        return (title, title_content, image, image_content)
 
 
 def write_data_to_csv(val_list, table_name):
